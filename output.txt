@@ -1,0 +1,22 @@
+ID     L_Name    F_Name    Q1  Q2  Q3  Q4  Q5  Q6   T1   T2   Final  Total  Grade 
+12345  Goldsmith Dorothy   10   9   8  10   8   9   95   99      80   91.5  A
+23456  Gross     Niko       7   8   9  10  10  10  100   92      94     95  A
+34567  Mercer    Akeem      9   9   5   7   9  10   84   97      87     89  B
+45678  Whelan    Tyrone    10  10   9   9  10   9   99   96      97     97  A
+56789  Houston   Joni       8   9   8   8   7   8   86   82      87  84.25  B
+67891  Tapia     Adam       4   5   6   7   3   4   60   70      55  59.25  E
+78912  Devlin    Gia        8   6   5   5   4   4   86   55      60  64.25  D
+89123  Hernandez Ellis      7   6   6   8   5   7   72   75      81     74  C
+91234  Holder    Monique    8   9  10   7   8   9   88   92      95  90.75  A
+
+The maximum of all quizzes:      10
+The average of all quizzes:    7.65
+The maximum of all exams:       100
+The average of all exams:     83.85
+The maximum of the totals:       97
+The average of the totals:    82.78
+The total number of A's:          4
+The total number of B's:          2
+The total number of C's:          1
+The total number of D's:          1
+The total number of E's:          1
